@@ -12,3 +12,4 @@ I was able to score max 76.87% accuracy on the unlabeled test set. There were 17
 Note: If you are unable to view the code, and it says 'An error occurred while reloading '.ipynb' file, which is a GitHub backend issue. You can try this:                         
 Step 1: Open-> https://nbviewer.org/                                                                                                              
 Step 2: Copy the link of the '.ipynb' code file and paste it into 'nbviewer'. You will be able to see the code file.
+![image](https://user-images.githubusercontent.com/22730615/157369262-9dcc2803-ed84-4a73-9ca1-26829c9b504a.png)
